@@ -1,2 +1,3 @@
 # html-dasar
-dasar dasar dalam html
+belajar dasar dasar dalam html
+dari mulai membuat heading, paragraf, list, tabel, sampai membuat form sederhana dalam html
